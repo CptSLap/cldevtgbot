@@ -2,7 +2,7 @@
 
 ## Nasıl kullanılır ?
 
-cldevtgbot.py içerisindeki TELEGRAM_TOKEN = '6519605895:AAH-Q2geycbUx1nEYH_xfcI1ay-MjHMufqM' kısmına kendi bot tokeninizi yazmalısınız
+cldevtgbot.py içerisindeki TELEGRAM_TOKEN = 'Botunuzun Tokeni' kısmına kendi bot tokeninizi yazmalısınız
 
 # Botu local olarak çalıştırmak istiyorsanız VSCode ile çalıştırabilirsiniz. 
 Eğer VSCode ile çalıştırırsanız LiveShare eklentisini kurup sonrasında http://127.0.0.1:5000 adresinden girmelisiniz. Port 5500 olmamalı
