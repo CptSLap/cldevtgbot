@@ -7,7 +7,7 @@ import atexit
 app = Flask(__name__)
 logging.basicConfig(level=logging.INFO)
 
-TELEGRAM_TOKEN = '6519605895:AAH-Q2geycbUx1nEYH_xfcI1ay-MjHMufqM'
+TELEGRAM_TOKEN = 'Botunuzun Tokeni'
 TELEGRAM_URL = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
 
 channel_id = None
